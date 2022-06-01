@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Fiz meu primeiro projeto com next que estou apaixonado e nele usei uma API para retornar pokemons e os dados deles, fiz com SSR pela dinamica ser muito boa
+
 First, run the development server:
 
 ```bash
